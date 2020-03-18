@@ -1,0 +1,10 @@
+D:\Afinamento\bin\Debug\Afinamento.exe.config
+D:\Afinamento\bin\Debug\Afinamento.exe
+D:\Afinamento\bin\Debug\Afinamento.pdb
+D:\Afinamento\obj\Debug\Afinamento.csprojResolveAssemblyReference.cache
+D:\Afinamento\obj\Debug\Afinamento.Form1.resources
+D:\Afinamento\obj\Debug\Afinamento.Properties.Resources.resources
+D:\Afinamento\obj\Debug\Afinamento.csproj.GenerateResource.Cache
+D:\Afinamento\obj\Debug\Afinamento.csproj.CoreCompileInputs.cache
+D:\Afinamento\obj\Debug\Afinamento.exe
+D:\Afinamento\obj\Debug\Afinamento.pdb
